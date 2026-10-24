@@ -44,9 +44,9 @@ Search terms that bring people here: `TikTok video dedup`, `TikTok deduplication
 
 ## 相关链接
 
-- 🌐 **帧码宝官网 / 落地页**：[请替换为你的官网或落地页地址]
-- 📘 **使用教程与帮助文档**：[请替换为你的教程页地址]
-- 💻 **帧码宝开源仓库**：[请替换为你的开源仓库地址]
+- 🌐 **灵剪·去重侠产品落地页**：[https://qcxplus.xscrm.vip/index.html](https://qcxplus.xscrm.vip/index.html)
+- 📘 **灵剪·去重侠使用教程**：[https://qcxplus.xscrm.vip/jiaocheng.html](https://qcxplus.xscrm.vip/jiaocheng.html)
+- 💻 **灵剪·去重侠开源仓库**：[https://gitee.com/tiantian81166/lingjian-quchongxia](https://gitee.com/tiantian81166/lingjian-quchongxia)
 
 ## 联系方式
 
