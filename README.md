@@ -19,6 +19,17 @@
 | **Facebook 短剧去重** | 针对 Facebook / Reels 的重复内容识别，做帧级混淆与节奏变速 | Facebook Reels dedup / Facebook 短剧去重 |
 | **海外短剧搬运** | 多集导入、错位铺量、多语言字幕配音，批量产出不重复版本 | overseas short drama repost |
 
+## 工具一览（Tools at a Glance）
+
+| 工具 | 适合场景 | 预设 |
+|---|---|---|
+| [TikTok 视频去重工具](TikTok视频去重工具/README.md) | TikTok 搬运 / 混剪 | 轻 / 标准 / 深度 |
+| [短剧去重工具](短剧去重工具/README.md) | 整剧去重，剧情安全 | 轻 / 标准 / 深度 |
+| [Facebook 短剧去重工具](Facebook短剧去重工具/README.md) | Facebook / Reels / Watch | 节奏 + 音频侧重 |
+| [短视频去重工具](短视频去重工具/README.md) | 通用多平台片段 | 按平台 |
+| [海外短剧搬运工具](海外短剧搬运工具/README.md) | 短剧 + 翻译 + 配音 | 多市场 |
+| [帧码宝软件介绍](帧码宝软件介绍/README.md) | 一体化工作台 | 全链路 |
+
 ## 去重原理（How It Works）
 
 不管是 TikTok 视频去重、短剧去重还是 Facebook 短剧去重，核心都是**改变视频的「内容指纹」而不破坏观感**：
@@ -29,6 +40,13 @@
 4. **元信息层**：封装层重置、关键帧重排、编码参数扰动。
 
 > 关键词：video fingerprint remover, avoid TikTok duplicate detection, bypass Facebook duplicate check, 视频查重规避, 防限流去重
+
+## 支持平台与格式（Supported Platforms & Formats）
+
+- **平台**：TikTok、Facebook（Reels / Watch）、YouTube Shorts、Instagram Reels、视频号、抖音。
+- **输出**：竖屏 9:16 及常见短视频尺寸。
+- **输入**：MP4 / MOV 等主流格式。
+- **处理**：本地优先——素材始终留在你的机器上。
 
 ## 英文 SEO 专区（English SEO Section）
 
@@ -41,6 +59,16 @@ If you are looking for a tool to **deduplicate TikTok videos**, **remove duplica
 - **Batch video processing** — One click to process dozens of clips for matrix accounts.
 
 Search terms that bring people here: `TikTok video dedup`, `TikTok deduplication tool`, `short drama dedup`, `Facebook Reels dedup`, `video fingerprint remover`, `avoid TikTok duplicate detection`, `TikTok 视频去重`, `短剧去重`, `Facebook 短剧去重`.
+
+## 常见问题（FAQ）
+
+**去重能 100% 保证视频不被下架吗？** 没有任何工具能 100% 保证。去重只是降低重复分数，让视频极难被判定为重复或限流。请始终保持内容原创与合规。
+
+**支持哪些平台？** TikTok、Facebook、YouTube Shorts、Instagram Reels、视频号、抖音。
+
+**我的素材会被上传吗？** 核心去重在本地完成，只有可选的发布环节才会连接平台。
+
+**怎么开始？** 查看上方任意工具页，或访问[产品落地页](https://qcxplus.xscrm.vip/index.html)与[使用教程](https://qcxplus.xscrm.vip/jiaocheng.html)。
 
 ## 相关链接
 
