@@ -22,6 +22,34 @@ Whether it's TikTok video dedup, short drama dedup, or Facebook short-drama dedu
 3. **Structural layer (temporal fingerprint)** — frame drop, frame insertion, speed change, segment reorder, breaking the continuity of the frame sequence.
 4. **Meta-info layer** — container reset, keyframe reshuffle, encoding-parameter perturbation.
 
+## Tools at a Glance
+
+| Tool | Best for | Presets |
+|---|---|---|
+| [TikTok Video Dedup](tiktok-video-dedup/README.md) | TikTok repost / remix | light / standard / deep |
+| [Short Drama Dedup](short-drama-dedup/README.md) | full-episode dramas, story-safe | light / standard / deep |
+| [Facebook Reels Dedup](facebook-reels-dedup/README.md) | Facebook / Reels / Watch | tempo + audio focus |
+| [Short Video Dedup](short-video-dedup/README.md) | generic multi-platform clips | per-platform |
+| [Overseas Short Drama Repost](overseas-short-drama-repost/README.md) | drama + translation + dubbing | multi-market |
+| [ZhenMaBao Software](zhenmabao-software-intro/README.md) | all-in-one workbench | full pipeline |
+
+## Supported Platforms & Formats
+
+- **Platforms**: TikTok, Facebook (Reels / Watch), YouTube Shorts, Instagram Reels, Channels (视频号), Douyin.
+- **Output**: vertical 9:16 and other common short-video sizes.
+- **Input**: MP4 / MOV and mainstream formats.
+- **Processing**: local-first — assets stay on your machine.
+
+## FAQ
+
+**Will dedup stop my video from being taken down?** No tool can guarantee that. Dedup lowers the duplicate-score so clips are far less likely to be flagged or throttled. Keep content original and compliant.
+
+**Which platforms are supported?** TikTok, Facebook, YouTube Shorts, Instagram Reels, Channels, and Douyin.
+
+**Is my footage uploaded anywhere?** Core dedup runs locally; only the optional publish step connects to platforms.
+
+**How do I start?** See any tool page above, or the [product landing page](https://qcxplus.xscrm.vip/index.html) and [user guide](https://qcxplus.xscrm.vip/jiaocheng.html).
+
 ## Tool Intros (English)
 
 - [TikTok Video Dedup Tool](tiktok-video-dedup/README.md)
